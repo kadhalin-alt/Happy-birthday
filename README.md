@@ -16,6 +16,7 @@
     <body>
         <h1>Happy Birthday! "Febia" 🎂</h1>
         <p>Wishing you a day filled with love, joy, and all the things that make you happy. May this year bring you success, good health, and endless happiness. Enjoy your special day!</p>
-        <img src="birthday cake.jpg" alt="Birthday Cake">
+        <img width="540" height="360" alt="birthday cake" src="https://github.com/user-attachments/assets/bce030b2-d3ab-434e-8f6e-78792ec8bd71" />
     </body>
 </html>
+        
